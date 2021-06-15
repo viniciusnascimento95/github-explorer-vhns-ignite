@@ -31,3 +31,12 @@ yarn add node-sass sass-loader -D
 09 Utilizando react refresh webpack plugin 
 yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh 
 
+10 - Instalando typescript DEV
+yarn add -D typescript 
+10.1 - Gerar arquivo de configuração.
+yarn tsc --init 
+10.2 - Instalando babel Typescript
+yarn add -D @babel/preset-typescript -D
+10.3 - Instalando dependencias de dev 
+yarn add @types/react-dom -D
+
